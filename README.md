@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hoorya 👋
 
-<!--
-**hooryaa/hooryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer & Builder of Developer Tools
+💡 Creator of DevPilot — AI-powered VS Code Extension for beginner developers
+🤝 Open to collaborations, freelance projects, and paid development work
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/hooryaa/
+* Email: [hxhxrix@yahoo.com](mailto:hxhxrix@yahoo.com)
+
+---
+
+### 🛠️ What I do
+
+* Full-stack web development
+* AI-powered applications & tools
+* VS Code extensions & developer productivity tools
+* Building scalable and practical software solutions
+
+---
+
+### 📌 Available for
+
+* Freelance software development projects
+* Collaboration on open-source or paid projects
+* AI / automation / developer tool builds
