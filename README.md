@@ -9,6 +9,7 @@
 ## 🌐 Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/hooryaa/
+* Portfolio: https://hooria-portfolio.vercel.app/
 * Email: [hxhxrix@yahoo.com](mailto:hxhxrix@yahoo.com)
 
 ---
