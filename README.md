@@ -1,29 +1,37 @@
 # Hi, I'm Hoorya 👋
 
-🚀 Software Engineer & Builder of Developer Tools
-💡 Creator of DevPilot — AI-powered VS Code Extension for beginner developers
-🤝 Open to collaborations, freelance projects, and paid development work
+🚀 Software Engineer building AI-powered developer tools
+💡 Creator of DevPilot — a VS Code extension designed to help beginner developers code smarter
+🤝 Open to freelance projects, paid collaborations, and software development contracts
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/hooryaa/
 * Email: [hxhxrix@yahoo.com](mailto:hxhxrix@yahoo.com)
 
 ---
 
-### 🛠️ What I do
+## 🛠️ What I build
 
-* Full-stack web development
-* AI-powered applications & tools
-* VS Code extensions & developer productivity tools
-* Building scalable and practical software solutions
+I focus on building practical, real-world software solutions such as:
+
+* AI-powered developer tools and assistants
+* Full-stack web applications
+* VS Code extensions & productivity tools
+* Automation and workflow optimization systems
 
 ---
 
-### 📌 Available for
+## 📌 Open to work
+
+I’m currently available for:
 
 * Freelance software development projects
-* Collaboration on open-source or paid projects
-* AI / automation / developer tool builds
+* Paid collaborations (startup / individual / business)
+* AI, automation, and developer tool development
+
+---
+
+💬 If you have an idea, let’s build it.
