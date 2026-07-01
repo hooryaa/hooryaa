@@ -1,20 +1,24 @@
 <div align="center">
 
-# Hi there, I'm Hooria Amir 👋
+<img src="./Git_Banner.png" width="100%" alt="Hooria Amir Banner"/>
 
-### Software Engineer • AI Enthusiast • Backend Developer
+# Hi, I'm Hooria Amir 👋
 
-I build AI-powered applications, developer tools, and scalable backend systems that solve real-world problems.
+### Software Engineer • AI • Backend • Data Engineering
+
+Building intelligent software, developer tools, and scalable backend systems.
 
 <p>
-  <a href="https://www.linkedin.com/in/hooryaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hooryaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://hooria-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  <a href="https://hooria-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
   <a href="mailto:hxhxrix@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -22,23 +26,27 @@ I build AI-powered applications, developer tools, and scalable backend systems t
 
 ---
 
-## 👩🏻‍💻 About Me
+# 👩🏻‍💻 About Me
 
-🎓 BS Software Engineering Graduate
+I'm a Software Engineer passionate about building practical software that solves real-world problems.
 
-💼 Software Engineer
+My interests span:
 
-🚀 Creator of **DevPilot**, an AI-powered Visual Studio Code extension designed to help beginner developers learn while coding.
+- 🤖 AI-powered applications
+- ⚙️ Backend Engineering
+- 📊 Data Engineering
+- ☁️ Cloud Technologies
+- 🚀 Developer Productivity Tools
 
-💡 Passionate about building software that combines **AI**, **backend engineering**, **automation**, and **great developer experiences**.
+I enjoy turning ideas into reliable, scalable products with clean architecture and thoughtful user experiences.
 
-🌱 Currently expanding my expertise in:
+---
 
-- Azure
-- Data Engineering
-- CI/CD
-- Machine Learning
-- Cloud Architecture
+# 🚧 Currently Building
+
+- 💼 **PayrollSuite** — Enterprise Payroll Management System built with ASP.NET Core & Clean Architecture.
+- 🎬 **Cinelytics** — End-to-end movie analytics platform featuring ETL pipelines, PostgreSQL, Docker, and Streamlit.
+- ☁️ Expanding my expertise in Azure, cloud-native development, and modern data engineering.
 
 ---
 
@@ -46,53 +54,37 @@ I build AI-powered applications, developer tools, and scalable backend systems t
 
 ## 🧠 DevPilot
 
-An AI-powered Visual Studio Code extension that helps beginner developers write, understand, and debug code without leaving their editor.
+AI-powered Visual Studio Code extension that helps beginner developers understand, generate, and debug code directly inside VS Code.
 
-**Highlights**
+**Tech**
 
-- AI code explanations
-- Smart code generation
-- Debugging assistance
-- Beginner-friendly learning mode
+`Python` `JavaScript` `OpenAI API` `VS Code API`
 
-**Tech Stack**
-
-`Python` • `JavaScript` • `OpenAI API` • `VS Code API`
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/DevPilot--Visual-Studio-Code-Extension-for-Beginner-Developers)
 
 ---
 
 ## 🎬 Cinelytics
 
-A complete movie analytics platform with modern data engineering practices.
+Movie analytics and data engineering platform featuring automated ETL pipelines, PostgreSQL warehousing, Docker, and interactive dashboards.
 
-**Highlights**
+**Tech**
 
-- Automated ETL pipelines
-- PostgreSQL warehouse
-- Interactive Streamlit dashboards
-- Dockerized deployment
+`Python` `PostgreSQL` `Docker` `SQL` `Streamlit`
 
-**Tech Stack**
-
-`Python` • `PostgreSQL` • `Docker` • `SQL` • `Streamlit`
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/cinelytics)
 
 ---
 
-## 💼 Payroll API
+## 💼 PayrollSuite
 
-A secure RESTful Payroll Management API following Clean Architecture.
+RESTful payroll management system built with ASP.NET Core following Clean Architecture principles.
 
-**Highlights**
+**Tech**
 
-- Authentication & Authorization
-- Entity Framework Core
-- SQL Server
-- Clean Architecture
-- JWT Security
+`ASP.NET Core` `C#` `.NET` `Entity Framework Core` `SQL Server`
 
-**Tech Stack**
-
-`ASP.NET Core` • `C#` • `SQL Server` • `Entity Framework Core`
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/PayrollSuite)
 
 ---
 
@@ -101,68 +93,74 @@ A secure RESTful Payroll Management API following Clean Architecture.
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,sql"/>
 </p>
 
-### Backend & APIs
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 🌱 Exploring
 
-## 📈 GitHub Stats
-
-<p align="center">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hooryaa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooryaa&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
+- Azure
+- Data Engineering
+- Machine Learning
+- CI/CD
+- Distributed Systems
+- AI Agent Development
 
 ---
 
-# 🤝 I'm Open To
+# 🤝 Open To
 
-✅ Software Engineering opportunities
-
-✅ AI & Automation projects
-
-✅ Backend Development
-
-✅ Freelance Development
-
-✅ Open Source Collaboration
+- Software Engineering Opportunities
+- AI Engineering Projects
+- Backend Development
+- Freelance & Consulting
+- Open Source Collaboration
 
 ---
 
 <div align="center">
 
-### Let's build something awesome together 🚀
+## Let's Connect
+
+Whether it's building software, discussing AI, or collaborating on interesting projects, I'd love to connect.
 
 <a href="https://www.linkedin.com/in/hooryaa/">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://hooria-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:hxhxrix@yahoo.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+⭐ Thanks for stopping by!
 
 </div>
