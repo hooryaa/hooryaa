@@ -132,13 +132,14 @@ A secure RESTful Payroll Management API following Clean Architecture.
 
 # 📈 GitHub Stats
 
-<div align="center">
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hooryaa&show_icons=true&hide_border=true&rank_icon=github)
+<p align="center">
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hooryaa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooryaa&layout=compact&theme=github_dark&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hooryaa&layout=compact&hide_border=true)
-
-</div>
+</p>
 
 ---
 
