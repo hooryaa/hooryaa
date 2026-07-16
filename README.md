@@ -4,150 +4,11 @@
 
 # Hi, I'm Hooria Amir 👋
 
-### Software Engineer • AI • Backend • Data Engineering
+### Software Engineer specializing in Data Engineering & Business Intelligence
 
-Building intelligent software, developer tools, and scalable backend systems.
-
-<p>
-  <a href="https://www.linkedin.com/in/hooryaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://hooria-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:hxhxrix@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
-# 👩🏻‍💻 About Me
-
-I'm a Software Engineer passionate about building practical software that solves real-world problems.
-
-My interests span:
-
-- 🤖 AI-powered applications
-- ⚙️ Backend Engineering
-- 📊 Data Engineering
-- ☁️ Cloud Technologies
-- 🚀 Developer Productivity Tools
-
-I enjoy turning ideas into reliable, scalable products with clean architecture and thoughtful user experiences.
-
----
-
-# 🚧 Currently Building
-
-- 💼 **PayrollSuite** — Enterprise Payroll Management System built with ASP.NET Core & Clean Architecture.
-- 🎬 **Cinelytics** — End-to-end movie analytics platform featuring ETL pipelines, PostgreSQL, Docker, and Streamlit.
-- ☁️ Expanding my expertise in Azure, cloud-native development, and modern data engineering.
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 DevPilot
-
-AI-powered Visual Studio Code extension that helps beginner developers understand, generate, and debug code directly inside VS Code.
-
-**Tech**
-
-`Python` `JavaScript` `OpenAI API` `VS Code API`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/DevPilot--Visual-Studio-Code-Extension-for-Beginner-Developers)
-
----
-
-## 🎬 Cinelytics
-
-Movie analytics and data engineering platform featuring automated ETL pipelines, PostgreSQL warehousing, Docker, and interactive dashboards.
-
-**Tech**
-
-`Python` `PostgreSQL` `Docker` `SQL` `Streamlit`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/cinelytics)
-
----
-
-## 💼 PayrollSuite
-
-RESTful payroll management system built with ASP.NET Core following Clean Architecture principles.
-
-**Tech**
-
-`ASP.NET Core` `C#` `.NET` `Entity Framework Core` `SQL Server`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/PayrollSuite)
-
----
-
-# 🛠 Tech Stack
-
-### Languages
+I build end-to-end data platforms that transform raw data into reliable, analytics-ready insights through ETL pipelines, dimensional data models, and interactive dashboards.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,sql"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman"/>
-</p>
-
----
-
-# 🌱 Exploring
-
-- Azure
-- Data Engineering
-- Machine Learning
-- CI/CD
-- Distributed Systems
-- AI Agent Development
-
----
-
-# 🤝 Open To
-
-- Software Engineering Opportunities
-- AI Engineering Projects
-- Backend Development
-- Freelance & Consulting
-- Open Source Collaboration
-
----
-
-<div align="center">
-
-## Let's Connect
-
-Whether it's building software, discussing AI, or collaborating on interesting projects, I'd love to connect.
 
 <a href="https://www.linkedin.com/in/hooryaa/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -161,6 +22,189 @@ Whether it's building software, discussing AI, or collaborating on interesting p
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-⭐ Thanks for stopping by!
+</p>
+
+</div>
+
+---
+
+# 👩🏻‍💻 About Me
+
+I'm a Software Engineering graduate focused on building practical data systems that solve real-world business problems.
+
+My work spans the complete analytics lifecycle—from collecting and transforming raw data to designing dimensional warehouses, implementing ETL pipelines, and delivering business intelligence dashboards.
+
+I enjoy creating software that's not only functional, but also maintainable, scalable, and easy to understand.
+
+### Current Focus
+
+- 📥 Data Ingestion & ETL Pipelines
+- 🏛️ Data Warehousing
+- 📊 Business Intelligence & Analytics
+- 🐍 Python Automation
+- 🗄️ SQL & PostgreSQL
+- ⚙️ Backend Engineering
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 JobPulse Pakistan ETL & Analytics Platform
+
+Production-style data engineering platform that transforms raw job postings into analytics-ready business intelligence.
+
+### Highlights
+
+- Automated ETL pipelines
+- Data quality monitoring
+- Skill extraction & enrichment
+- Star Schema warehouse
+- PostgreSQL & SQLite
+- Power BI dashboards
+- Interactive Streamlit application
+
+**Tech**
+
+`Python`
+`PostgreSQL`
+`SQLite`
+`SQLAlchemy`
+`Pandas`
+`dbt`
+`Power BI`
+`Streamlit`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/JobPulse-Pakistan-ETL)
+
+---
+
+## 📈 Power BI Analytics Dashboard
+
+End-to-end Business Intelligence solution featuring dimensional modeling, KPI reporting, DAX measures, and interactive executive dashboards.
+
+**Tech**
+
+`Power BI`
+`DAX`
+`Power Query`
+`SQL`
+`Data Modeling`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/PowerBI--ETL-DAX-Data-Modelling)
+
+---
+
+## 🗂 Hadoop Complaint Analytics Platform
+
+Distributed analytics platform for large-scale complaint processing using the Hadoop ecosystem.
+
+**Tech**
+
+`Python`
+`Hadoop`
+`HDFS`
+`MapReduce`
+`YARN`
+`Flask`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/Hadoop-Balochistan-Complaint-Web-Portal)
+
+---
+
+## 💻 DevPilot
+
+AI-powered Visual Studio Code extension designed to help developers understand code, navigate projects, and improve productivity.
+
+**Tech**
+
+`TypeScript`
+`React`
+`VS Code API`
+`OpenAI`
+`Cloudflare Workers`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/hooryaa/DevPilot--Visual-Studio-Code-Extension-for-Beginner-Developers)
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,js,ts,cs"/>
+</p>
+
+## Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql"/>
+</p>
+
+**Libraries & Tools**
+
+`Pandas`
+`SQLAlchemy`
+`dbt`
+`Power BI`
+`DAX`
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,dotnet"/>
+</p>
+
+---
+
+## Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Apache Airflow
+- Azure Data Factory
+- Microsoft Fabric
+- Cloud Data Warehousing
+- Distributed Data Processing
+
+---
+
+# 🤝 Open To
+
+- Data Engineering Roles
+- Analytics Engineering Roles
+- Business Intelligence Development
+- Python Development
+- Open Source Collaboration
+
+---
+
+<div align="center">
+
+## Let's Connect
+
+I'm always interested in discussing data engineering, analytics, backend systems, or collaborating on interesting projects.
+
+<a href="https://www.linkedin.com/in/hooryaa/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://hooria-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:hxhxrix@yahoo.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+⭐ Thanks for visiting!
 
 </div>
