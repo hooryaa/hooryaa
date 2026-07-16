@@ -1,6 +1,6 @@
 # Hi, I'm Hooria 👋
 
-Software Engineering graduate interested in Data Engineering, Analytics, and Developer Tools.
+Software Engineering graduate building data engineering and analytics projects with Python, SQL, and Power BI.
 
 Currently building ETL pipelines, analytical applications, and backend systems with Python, SQL, PostgreSQL, and Power BI.
 
